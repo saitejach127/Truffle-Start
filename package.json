@@ -1,7 +1,7 @@
 {
-  "name": "blockchain-toolkit",
+  "name": "Truffle-Template",
   "version": "1.0.0",
-  "description": "The Complete Blockchain Developer Toolkit for 2019 & Beyond",
+  "description": "A template code for truffle projects",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
